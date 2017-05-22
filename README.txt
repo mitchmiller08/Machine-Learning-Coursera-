@@ -1,0 +1,1 @@
+This repo contains code generated during Coursera course "Machine Learning" by Andrew Ng from Stanford University.  This course covers the fundamentals of machine learning:  linear and logistic regression.  We also cover neural nets, advanced vectorization, and optimization techniques.  
